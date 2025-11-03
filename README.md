@@ -14,3 +14,6 @@ AuditDoc AI automatise la vérification des documents pour les associations à b
 - Saida Jarry — Vérificatrice de documents  
 - Rihab Ousrhir — Vérificatrice de documents  
 - Ahmed Oulamine — Développeur Java / IT Lead
+
+## 📜 Licence
+Ce projet est à but éducatif et réalisé dans le cadre d’un travail universitaire.
